@@ -4,6 +4,8 @@
 
 Turn issue threads from unreadable agent chatter into auditable case files.
 
+[中文文档](./README.zh-CN.md)
+
 ```
 npx skills add ApocalypseYun/casebook
 ```
